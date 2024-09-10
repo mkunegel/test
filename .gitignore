@@ -1,0 +1,10 @@
+.idea/
+.venv/
+documents/*
+__pycache__
+*.pyc
+.DS_Store
+appTest*.py
+sweetviz_report.html
+classificationTest/*
+temp_image.jpg
